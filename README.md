@@ -118,7 +118,7 @@ npm run dev
 
 ## 🧑‍💻 Author
 
-- 💼 [Aashutosh Yadav](https://github.com/AashuYDV)
+- 💼 [Abhijeet Dwivedi](https://github.com/Abhijeet67-IN)
 , Passionate Developer and Competitive Programmer 
 
 ---
